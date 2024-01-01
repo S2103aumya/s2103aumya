@@ -1,16 +1,5 @@
  Hi👋,I'm Saumya Jain
 
-<!--
-**S2103aumya/s2103aumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning django frameworks
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning django frameworks.
 - 💬 Ask me about Java,DSA
 - 📫 How to reach me: jainsaumya303@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
