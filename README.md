@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Analytics & Dashboard Projects**
 
-- 🌱 I’m currently learning **Power BI, SQL, Python, Java & Spring Boot**
+- 🌱 I’m currently learning **Power BI, SQL, Python, Excel. Tableau**
 
 - 👨‍💻 Solved **650+ coding problems** on LeetCode focused on DSA & problem-solving
 
