@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAUMYA JAIN</h1>
-<h3 align="center">Aspiring Data Analyst & Software Developer from India 📊</h3>
+<h3 align="center">Aspiring Data Analyst 📊</h3>
 
 - 🔭 I’m currently working on **Data Analytics & Dashboard Projects**
 
